@@ -561,6 +561,38 @@ eventbrite: 50243528747          # optional: alphanumeric key for Eventbrite reg
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
 
+<div id="GitHub Desktop"> {% comment %} Start of 'R' section. {% endcomment %}
+  <h3>R</h3>
+
+  <p>
+    <a href="https://desktop.github.com/">GitHub Desktop</a> is an opnen source interface to interact with GitHub repositories.
+  </p>
+
+  <div class="row">
+    <div class="col-md-4">
+      <h4 id="GitHubDesktop-windows">Windows</h4>
+      
+      <p>
+        Install GitHub Desktop by downloading and running
+        <a href="https://central.github.com/deployments/desktop/desktop/latest/win32">this .exe file</a>
+        or <a href="https://central.github.com/deployments/desktop/desktop/latest/win32?format=msi">this .msi file</a>
+        from <a href="https://desktop.github.com/">GitHub Desktop</a>.
+        
+      </p>
+    </div>
+    <div class="col-md-4">
+      <h4 id="GitHubDesktop-macosx">macOS</h4>
+        Install GitHub Desktop by downloading and running
+        <a href="https://central.github.com/deployments/desktop/desktop/latest/darwin">this .zip file</a>
+        from <a href="https://desktop.github.com/">GitHub Desktop</a>.
+      </p>
+    </div>
+    
+  </div>
+</div> {% comment %} End of 'R' section. {% endcomment %}
+
+
+
 {% comment %}
 <div id="vm">
   <h3>Virtual Machine</h3>
