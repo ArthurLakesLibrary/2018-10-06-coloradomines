@@ -561,8 +561,8 @@ eventbrite: 50243528747          # optional: alphanumeric key for Eventbrite reg
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
 
-<div id="GitHub Desktop"> {% comment %} Start of 'R' section. {% endcomment %}
-  <h3>R</h3>
+<div id="GitHub Desktop"> {% comment %} Start of 'GitHub Desktop' section. {% endcomment %}
+  <h3>GitHub Desktop</h3>
 
   <p>
     <a href="https://desktop.github.com/">GitHub Desktop</a> is an opnen source interface to interact with GitHub repositories.
@@ -582,6 +582,7 @@ eventbrite: 50243528747          # optional: alphanumeric key for Eventbrite reg
     </div>
     <div class="col-md-4">
       <h4 id="GitHubDesktop-macosx">macOS</h4>
+      <p>
         Install GitHub Desktop by downloading and running
         <a href="https://central.github.com/deployments/desktop/desktop/latest/darwin">this .zip file</a>
         from <a href="https://desktop.github.com/">GitHub Desktop</a>.
@@ -589,7 +590,7 @@ eventbrite: 50243528747          # optional: alphanumeric key for Eventbrite reg
     </div>
     
   </div>
-</div> {% comment %} End of 'R' section. {% endcomment %}
+</div> {% comment %} End of 'Github Desktop' section. {% endcomment %}
 
 
 
