@@ -46,7 +46,7 @@ eventbrite: 50243528747          # optional: alphanumeric key for Eventbrite reg
 </iframe>
 {% endif %}
 
-<h4></h4>
+
 
 <h2 id="general">General Information</h2>
 
@@ -178,6 +178,8 @@ eventbrite: 50243528747          # optional: alphanumeric key for Eventbrite reg
   {% endif %}
   for more information.
 </p>
+
+<h4>Free lunch and refreshments are provided by Mines Graduate Student Government and Arthur Lakes Library.</h4>
 
 <hr/>
 
